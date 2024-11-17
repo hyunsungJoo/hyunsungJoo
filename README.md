@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-site-url.com"><img src="https://img.shields.io/badge/🌐-포트폴리오-1DA1F2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://hyunsungjoo.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐-포트폴리오-1DA1F2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:joocurtis@gmail.com"><img src="https://img.shields.io/badge/📫-이메일-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/hyunsungJoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://velog.io/@joocurtis/posts"><img src="https://img.shields.io/badge/📝-기술%20블로그-00C897?style=flat-square&logo=velog&logoColor=white" alt="Tech Blog"></a>
@@ -21,8 +21,6 @@
 - 📚 최근 관심사: **Kubernetes**, **클라우드 인프라**, **DevOps**.
 
 ---
-
-
 
 ## 🚀 Tech Stack
 
@@ -56,14 +54,10 @@
 
 ## 💻 Projects
 
-### Backend
-- [**Spring Boot JWT Authentication**](https://github.com/hyunsungJoo/spring-jwt-auth): A simple authentication system using Spring Boot and JWT.
-- [**Express API with MongoDB**](https://github.com/hyunsungJoo/express-mongodb-api): A RESTful API built with Express.js and MongoDB.
-- [**MySQL and Redis Integration**](https://github.com/hyunsungJoo/mysql-redis-app): A project demonstrating MySQL and Redis integration with Spring Boot.
-
-### Frontend
-- [**Vue.js Todo App**](https://github.com/hyunsungJoo/vue-todo-app): A frontend project built with Vue.js for task management.
-- [**React Portfolio Site**](https://github.com/hyunsungJoo/react-portfolio): My personal portfolio site built with React.
+### FullStack
+- [**Spring Boot & Vue.js DigitalBadge HR Progaram**](https://github.com/9-1379/T3-R0-Document): 
+  - **설명**: Java Spring Boot와 Vue.js를 사용해 개발한 디지털배지를 더한 인사관리 시스템입니다.
+  - **기술 스택**: Spring Boot, Vue.js, MariaDB, Docker, Jenkins.
 
 ---
 
@@ -71,5 +65,32 @@
 
 ![Hyunsung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunsungJoo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsungJoo&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+
+- **Email**: [joocurtis@gmail.com](mailto:joocurtis@gmail.com)
+- **GitHub**: [https://github.com/hyunsungJoo](https://github.com/hyunsungJoo)
+
+---
+
+## 📝 Blog
+
+I occasionally write articles on my [Tech Blog](https://velog.io/@joocurtis/posts) about Java, Spring Boot, and web development.
+
+---
+
+## 🎯 Goals for 2024
+
+- ✅ Launch a new open-source project
+- 📚 Learn more about Kubernetes and cloud deployments
+- 💡 Start a YouTube channel for coding tutorials
+
+---
+
+## 💖 Support
+
+If you like my work, please give a ⭐️ on my projects, or feel free to connect with me!
 
 ---
