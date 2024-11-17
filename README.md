@@ -9,6 +9,9 @@ I'm a software developer with a passion for building web applications and solvin
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -24,6 +27,10 @@ I'm a software developer with a passion for building web applications and solvin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -42,7 +49,7 @@ I'm a software developer with a passion for building web applications and solvin
 
 ## 🌐 Portfolio Website
 
-Check out my personal portfolio site: [**Hyunsung Joo's Portfolio**](https://hyunsungjoo.github.io/portfolio/)
+Check out my personal portfolio site: [**Hyunsung Joo's Portfolio**](https://your-portfolio-site-url.com)
 
 ---
 
@@ -79,4 +86,3 @@ I occasionally write articles on my [Tech Blog](https://velog.io/@joocurtis/post
 If you like my work, please give a ⭐️ on my projects, or feel free to connect with me!
 
 ---
-
