@@ -1,26 +1,28 @@
-<h1 align="center">👋 Hi there, I'm Hyunsung Joo!</h1>
-<h3 align="center">Crafting seamless digital experiences with Java Spring Boot & Vue.js</h3>
+<h1 align="center">👋 안녕하세요!!!</h1>
+<h3 align="center">✨ Java Spring 으로 백엔드의 세상을 열어가는 개발자입니다.</h3>
 
 <p align="center">
-  🚀 Full Stack Developer | 🌱 Lifelong Learner | 💡 Problem Solver
+  🚀 백엔드 개발자 | 🌱 끊임없이 배우는 중 | 🛠️ 문제 해결사
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-site-url.com"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:joocurtis@gmail.com"><img src="https://img.shields.io/badge/📫-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://your-portfolio-site-url.com"><img src="https://img.shields.io/badge/🌐-포트폴리오-1DA1F2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:joocurtis@gmail.com"><img src="https://img.shields.io/badge/📫-이메일-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/hyunsungJoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://velog.io/@joocurtis/posts"><img src="https://img.shields.io/badge/📝-Tech%20Blog-00C897?style=flat-square&logo=velog&logoColor=white" alt="Tech Blog"></a>
+  <a href="https://velog.io/@joocurtis/posts"><img src="https://img.shields.io/badge/📝-기술%20블로그-00C897?style=flat-square&logo=velog&logoColor=white" alt="Tech Blog"></a>
 </p>
 
 ---
 
 ### 🌟 About Me
-- 💻 I’m a full stack developer specializing in **Java Spring Boot** and **Vue.js**.
-- 🎯 Currently focused on building scalable backend systems and interactive frontend experiences.
-- 🌍 I love exploring new tech trends and contributing to open-source projects.
-- 📚 Always learning: Kubernetes, Cloud Deployments, and DevOps practices.
+- 💻 저는 **Java Spring Boot** 기반의 백엔드 개발자로, 견고하고 확장 가능한 시스템을 만드는 것을 목표로 합니다.
+- 🎯 현재 대규모 트래픽을 처리할 수 있는 서버 아키텍처와 RESTful API 설계에 집중하고 있습니다.
+- 🌍 새로운 기술을 탐구하고 오픈 소스 프로젝트에 기여하는 것을 즐깁니다.
+- 📚 최근 관심사: **Kubernetes**, **클라우드 인프라**, **DevOps**.
 
 ---
+
+
 
 ## 🚀 Tech Stack
 
