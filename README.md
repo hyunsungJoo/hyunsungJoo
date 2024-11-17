@@ -9,16 +9,15 @@ I'm a software developer with a passion for building web applications and solvin
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -33,6 +32,7 @@ I'm a software developer with a passion for building web applications and solvin
 ### Backend
 - [**Spring Boot JWT Authentication**](https://github.com/hyunsungJoo/spring-jwt-auth): A simple authentication system using Spring Boot and JWT.
 - [**Express API with MongoDB**](https://github.com/hyunsungJoo/express-mongodb-api): A RESTful API built with Express.js and MongoDB.
+- [**MySQL and Redis Integration**](https://github.com/hyunsungJoo/mysql-redis-app): A project demonstrating MySQL and Redis integration with Spring Boot.
 
 ### Frontend
 - [**Vue.js Todo App**](https://github.com/hyunsungJoo/vue-todo-app): A frontend project built with Vue.js for task management.
@@ -56,7 +56,7 @@ I'm a software developer with a passion for building web applications and solvin
 
 ## 📝 Blog
 
-I occasionally write articles on my [Tech Blog](https://medium.com/@hyunsungJoo) about Java, Spring Boot, and web development.
+I occasionally write articles on my [Tech Blog](https://velog.io/@joocurtis/posts) about Java, Spring Boot, and web development.
 
 ---
 
@@ -73,4 +73,3 @@ I occasionally write articles on my [Tech Blog](https://medium.com/@hyunsungJoo)
 If you like my work, please give a ⭐️ on my projects, or feel free to connect with me!
 
 ---
-
