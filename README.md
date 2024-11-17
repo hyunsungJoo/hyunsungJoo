@@ -1,6 +1,24 @@
-# 👋 Hi, I'm Hyunsung Joo!
+<h1 align="center">👋 Hi there, I'm Hyunsung Joo!</h1>
+<h3 align="center">Crafting seamless digital experiences with Java Spring Boot & Vue.js</h3>
 
-I'm a software developer with a passion for building web applications and solving complex problems. Currently, I'm focused on Java Spring Boot and Vue.js projects.
+<p align="center">
+  🚀 Full Stack Developer | 🌱 Lifelong Learner | 💡 Problem Solver
+</p>
+
+<p align="center">
+  <a href="https://your-portfolio-site-url.com"><img src="https://img.shields.io/badge/🌐-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:joocurtis@gmail.com"><img src="https://img.shields.io/badge/📫-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/hyunsungJoo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://velog.io/@joocurtis/posts"><img src="https://img.shields.io/badge/📝-Tech%20Blog-00C897?style=flat-square&logo=velog&logoColor=white" alt="Tech Blog"></a>
+</p>
+
+---
+
+### 🌟 About Me
+- 💻 I’m a full stack developer specializing in **Java Spring Boot** and **Vue.js**.
+- 🎯 Currently focused on building scalable backend systems and interactive frontend experiences.
+- 🌍 I love exploring new tech trends and contributing to open-source projects.
+- 📚 Always learning: Kubernetes, Cloud Deployments, and DevOps practices.
 
 ---
 
@@ -47,42 +65,9 @@ I'm a software developer with a passion for building web applications and solvin
 
 ---
 
-## 🌐 Portfolio Website
-
-Check out my personal portfolio site: [**Hyunsung Joo's Portfolio**](https://your-portfolio-site-url.com)
-
----
-
 ## 📊 GitHub Stats
 
 ![Hyunsung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunsungJoo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunsungJoo&layout=compact&theme=radical)
-
----
-
-## 📫 Contact
-
-- **Email**: [joocurtis@gmail.com](mailto:joocurtis@gmail.com)
-- **GitHub**: [https://github.com/hyunsungJoo](https://github.com/hyunsungJoo)
-
----
-
-## 📝 Blog
-
-I occasionally write articles on my [Tech Blog](https://velog.io/@joocurtis/posts) about Java, Spring Boot, and web development.
-
----
-
-## 🎯 Goals for 2024
-
-- ✅ Launch a new open-source project
-- 📚 Learn more about Kubernetes and cloud deployments
-- 💡 Start a YouTube channel for coding tutorials
-
----
-
-## 💖 Support
-
-If you like my work, please give a ⭐️ on my projects, or feel free to connect with me!
 
 ---
