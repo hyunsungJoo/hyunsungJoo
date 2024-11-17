@@ -40,6 +40,12 @@ I'm a software developer with a passion for building web applications and solvin
 
 ---
 
+## 🌐 Portfolio Website
+
+Check out my personal portfolio site: [**Hyunsung Joo's Portfolio**](https://hyunsungjoo.github.io/portfolio/)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Hyunsung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunsungJoo&show_icons=true&theme=radical)
@@ -73,3 +79,4 @@ I occasionally write articles on my [Tech Blog](https://velog.io/@joocurtis/post
 If you like my work, please give a ⭐️ on my projects, or feel free to connect with me!
 
 ---
+
